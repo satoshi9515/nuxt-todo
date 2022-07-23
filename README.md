@@ -1,1 +1,1 @@
-Udemy, Proglusで公開しているNuxt.js入門コースのサンプルコードです。該当コースの受講生の方が、個人的な学習の範囲内でご利用いただけます。
+UdemyのNuxt.js入門のfirebaseを利用したTodoアプリのSPA
